@@ -13,10 +13,6 @@ The following are the main frameworks/libraries used to create and develop this 
 
 ### Demo
 
-COMING SOON
-
-<!-- The following is a demo of the project that was created
-
-[Demo - Store-Template](https://store-template.netlify.app/) -->
+* [CSS-GRID](https://css-grid-vercel.vercel.app)
 
 ![](/picture.png)
